@@ -16,6 +16,7 @@ https://portfoliojoao1.my.canva.site
 - Aprender versionamento com Git
 - Organizar projetos acadêmicos
 - Desenvolver presença profissional online
-
+## Link do meu Linkedin:
+https://www.linkedin.com/in/joao-tarik-5990b83b2/
 ## Autor
 João Tarik
